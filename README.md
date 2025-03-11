@@ -5,7 +5,8 @@ This project is a Bank Employee Registration System built using Java JEE. It all
 
 Features:
 ----------
-✅ Secure Employee Registration
+✅ Secure Employee Registration 
+
 ✅ Authorization for Managing Employee Records
 ✅ JSP-Based Dynamic Pages
 ✅ SQL Database Integration
