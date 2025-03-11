@@ -1,4 +1,4 @@
-Bank Employee Registration System 🏦
+Bank Employee Registration System 🏦                                                                                                         
 Overview:
 --------
 This project is a Bank Employee Registration System built using Java JEE. It allows authorized personnel to register and manage employee details securely. The system integrates JSP, HTML, CSS, and an SQL database to ensure smooth data handling.
